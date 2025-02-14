@@ -60,19 +60,3 @@ Segundos: 30
 Numero de segundos desde o inicio do dia: 8130
 
 
-# produto.c
-Multiplicar os primeiros N números inteiros positivos (factorial de N), sendo N definido pelo utilizador:
-
-### Execução de exemplo:
-C:\>produto
-Calculo do produto dos primeiros N numeros.
-Indique N:5
-Factorial(1)=1
-Factorial(2)=2
-Factorial(3)=6
-Factorial(4)=24
-Factorial(5)=120
-Resultado: 120
-
-
-#
